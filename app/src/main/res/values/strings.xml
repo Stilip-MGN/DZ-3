@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="send_message">Send message</string>
+    <string name="read">Read</string>
+    <string name="all_read">All messages is read</string>
+    <string name="write_message">Напиши сообщение</string>
+</resources>

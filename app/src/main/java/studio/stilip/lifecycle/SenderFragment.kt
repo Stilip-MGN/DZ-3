@@ -33,7 +33,7 @@ class SenderFragment : Fragment() {
     }
 
     private fun openReceiverFragment(view: View) {
-        val edit = view.findViewById<EditText>(R.id.edit_text)//"Kyky|_|_|Ka"
+        val edit = view.findViewById<EditText>(R.id.edit_text)
         model.updateMessage(edit.text.toString())
         parentFragmentManager
             .beginTransaction()
